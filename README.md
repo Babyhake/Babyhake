@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Babyhake
+- 👋 Hi, I’m @Lebogang
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on coding
